@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "UKL7/src",
+        "UKL6/src",
+        "UKL5/src",
+        "UKL1/src",
+        "UKL1/UKL4/src",
+        "UKL1/UKL3/src",
+        "UKL/src",
+        "UKL/UKL3/src",
+        "UKL/UKL2/src",
+        "UKL1/UKL2/src"
+    ]
+}
